@@ -1,4 +1,4 @@
-# Data Analysis Portfolio
+# Gold Price Analysis
 
 Welcome to my Data Analysis and Power BI portfolio.
 
